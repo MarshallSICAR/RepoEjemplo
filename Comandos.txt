@@ -11,3 +11,10 @@ git add /ruta/al/archivo.ext
 
 ### Revisar la lista de commits
 git log 
+
+### Crear nueva rama
+git checkout -b "nombreDeLaRama"
+
+### Cambiar de rama
+git checkout {{nombreDeLaRama}}
+***
