@@ -8,3 +8,6 @@ git status
 
 ### Agregar archivos para seguimiento de cambios
 git add /ruta/al/archivo.ext
+
+### Revisar la lista de commits
+git log 
