@@ -37,4 +37,7 @@ git checkout {{nombreDeLaRama}}
 
 ### Integrar cambios de ramas, se debe hacer checkout primero
 git merge "nombreDeLaRama"
+
+### Para subir el repositorio
+git push
 ***
