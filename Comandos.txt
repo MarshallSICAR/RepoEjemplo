@@ -10,4 +10,28 @@ git status
 git add /ruta/al/archivo.ext
 
 ### Revisar la lista de commits
-git log 
+git log
+
+***
+Para realizar operaciones de Git, deben estar dentro del repositorio.
+### Inicializar el repositorio
+git init
+
+### Consultar estado del repositorio
+git status
+
+### Agregar archivos para seguimiento de cambios
+git add /ruta/al/archivo.ext
+
+### Confirmar cambios para guardar
+git commit -m "Mensaje aclaratorio del cambio"
+
+### Revisar la lista de commits
+git log
+
+### Crear nueva rama
+git checkout -b "nombreDeLaRama"
+
+### Cambiar de rama
+git checkout {{nombreDeLaRama}}
+***
